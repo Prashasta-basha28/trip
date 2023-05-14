@@ -31,7 +31,7 @@ GoTrip is our online website template that works best for travel and booking rel
 
 Vs code
 
-# Steps follwed While Deploying :
+# Steps followed While Deploying :
 
 1.Firstly I built the complete project using visual studio code,then tested it on the live server extension's.
 
@@ -45,7 +45,7 @@ Vs code
 
 6.After that I have created a container with blob storage and uploaded my project code into the container.
 
-7.after that I started my static web sevice and deployed my website on azure static web services.
+7.After that I started my static web sevice and deployed my website on azure static web services.
 
 8.Finally my website was deployed on the azure web services and ready to use...
 
